@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.box{
+	height:200px;
+	width:200px;
+	background-color:lightblue;
+	position:absolute;
+	top:50%;
+	left:50%;
+	border:2px solid black;
+	transform:translate(-50%,-50%);
+}
+.text{
+	
+	text-align:center;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	
+}
